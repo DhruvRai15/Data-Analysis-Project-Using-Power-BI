@@ -1,8 +1,4 @@
-# Data-Analysis-Project-Using-Power-BI
 
-Sure, here is an example of what you can include in your GitHub repository's README file for your Myntra Sales Analysis Dashboard project:
-
----
 
 # Myntra Sales Analysis Dashboard
 
